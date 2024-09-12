@@ -37,5 +37,5 @@ https://ebitaku.sakura.ne.jp/kakeiboapp/index.php
   - 1.三項演算子 [https://www.sejuku.net/blog/23070]
   - 2. チェックボックスのchecked属性をphpで受け取る方法[https://magazine.techacademy.jp/magazine/19671]
   - 3. textareaはvalue属性が使えないので、開始終了タグの間にぶっこむ話[https://qiita.com/Kent2525/items/b07bb3fb2b521fce580d]
-    4. Chartjs使用時のReferenceError: Chart is not defined が出たときの対処法[https://harutoblog.com/1733]
+  - 4. 4. Chartjs使用時のReferenceError: Chart is not defined が出たときの対処法[https://harutoblog.com/1733]
 # kakeiboapp_2
