@@ -38,5 +38,7 @@ https://ebitaku.sakura.ne.jp/kakeiboapp/index.php
   - 1.三項演算子 [https://www.sejuku.net/blog/23070]
   - 2. チェックボックスのchecked属性をphpで受け取る方法[https://magazine.techacademy.jp/magazine/19671]
   - 3. textareaはvalue属性が使えないので、開始終了タグの間にぶっこむ話[https://qiita.com/Kent2525/items/b07bb3fb2b521fce580d]
-  - 4. 4. Chartjs使用時のReferenceError: Chart is not defined が出たときの対処法[https://harutoblog.com/1733]
+  - 4. Chartjs使用時のReferenceError: Chart is not defined が出たときの対処法[https://harutoblog.com/1733]
+    5. formタグ内に、複数ボタンを設置して、それぞれ宛先を変える方法[https://qiita.com/shun_tech/items/1fd16b5209e593e668b0]
+    6. CSS display_flex内の要素間の間隔の取り方（gap）[https://higezine.com/blog/front-end/html-css/2022/05/09/850/]
 # kakeiboapp_2
