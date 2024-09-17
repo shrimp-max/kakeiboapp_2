@@ -1,6 +1,6 @@
 # ①課題番号-プロダクト名
 
-家計簿webアプリ
+家計簿webアプリ(更新・削除)
 
 ## ②課題内容（どんな作品か）
 
@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-https://ebitaku.sakura.ne.jp/kakeiboapp/index.php
+https://ebitaku.sakura.ne.jp/kakeiboapp_2/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
@@ -20,7 +20,7 @@ https://ebitaku.sakura.ne.jp/kakeiboapp/index.php
 - これまでの課題よりも実用的にするために、きれいなUIを心掛けた
 - 収支一覧表の、収入と支出を一目見てわかるように色を付けた
 - 1つの画面で、更新と削除のどちらもできるようにした
-- ご削除を防ぐために、ダイアログを挟むようにした。
+- 誤削除を防ぐために、ダイアログを挟むようにした。
 
 ## ⑥難しかった点・次回トライしたいこと(又は機能)
 
