@@ -1,6 +1,7 @@
 <?php
 //1. POSTデータ取得
-$id = $_GET["id"];
+// $id = $_GET["id"];
+$id = $_POST["id"];
 
 //2. DB接続します
 include("funcs.php");

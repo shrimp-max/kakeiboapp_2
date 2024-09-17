@@ -181,7 +181,7 @@ $v =  $stmt->fetch(); //PDO::FETCH_ASSOC[カラム名のみで取得できるモ
                     </div>
                     <div class="touroku_btn">
                         <button type="submit" formaction="update.php">更&nbsp;新</button>
-                        <button type="submit" id="dlt_btn"><a href="delete.php?id=<?=h($v["id"])?>" style="text-decoration:none;color:white;">削&nbsp;除</a></button>
+                        <button type="submit" id="dlt_btn" formaction="delete.php">削&nbsp;除</button>
                         <button type="submit" formaction="index.php">戻&nbsp;る</button>
                     </div>
                 </form>

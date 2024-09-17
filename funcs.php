@@ -5,6 +5,8 @@ function h($str){
 }
 
 //DB接続関数：db_conn()
+
+// ローカル編集用
 function db_conn(){
     try {
         $db_name = "gs_db";    //データベース名 データベース名をここで変えるだけでどんなdbも楽に呼び出せる
@@ -16,6 +18,8 @@ function db_conn(){
         exit('DB Connection Error:'.$e->getMessage());
     }
 };
+// ローカル編集用
+
 
 
 
